@@ -1,0 +1,3 @@
+Rover1,3,4,N:f,f,r,f,f
+Rover2,1,4,S:f,f,r,f,f
+
